@@ -1,4 +1,4 @@
-# Initital training file
+# Initial training file
 
 name = "Cameron"
 
