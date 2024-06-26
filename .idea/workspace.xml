@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64c9ca35-9438-4dea-a7a3-d1d93f522b5b" name="Changes" comment="Added returnstatement.py">
-      <change afterPath="$PROJECT_DIR$/keywordarguments.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="64c9ca35-9438-4dea-a7a3-d1d93f522b5b" name="Changes" comment="Added keywordarguments.py">
+      <change afterPath="$PROJECT_DIR$/nestedfunctionscalls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +78,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/keywordarguments.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nestedfunctionscalls.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,7 +222,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719434979267</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Added keywordarguments.py">
+      <option name="closed" value="true" />
+      <created>1719435705828</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1719435705828</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -277,6 +284,7 @@
     <MESSAGE value="Renamed to howisyourday.py" />
     <MESSAGE value="Added function.py" />
     <MESSAGE value="Added returnstatement.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added returnstatement.py" />
+    <MESSAGE value="Added keywordarguments.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added keywordarguments.py" />
   </component>
 </project>
