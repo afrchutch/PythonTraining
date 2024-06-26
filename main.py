@@ -1,4 +1,4 @@
-# Initial training file
+# Training file 1
 import time
 name = input("What's your name?: ")
 answers = ("Good", "Okay", "Alright", "Great")
