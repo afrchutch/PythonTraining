@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64c9ca35-9438-4dea-a7a3-d1d93f522b5b" name="Changes" comment="Added nestedfunctionscalls.py">
-      <change afterPath="$PROJECT_DIR$/scope.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="64c9ca35-9438-4dea-a7a3-d1d93f522b5b" name="Changes" comment="Added scope.py" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -239,7 +236,23 @@
       <option name="project" value="LOCAL" />
       <updated>1719436240062</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Added scope.py">
+      <option name="closed" value="true" />
+      <created>1719436771072</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1719436771072</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Added scope.py">
+      <option name="closed" value="true" />
+      <created>1719436835819</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1719436835819</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -295,6 +308,7 @@
     <MESSAGE value="Added returnstatement.py" />
     <MESSAGE value="Added keywordarguments.py" />
     <MESSAGE value="Added nestedfunctionscalls.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added nestedfunctionscalls.py" />
+    <MESSAGE value="Added scope.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added scope.py" />
   </component>
 </project>
