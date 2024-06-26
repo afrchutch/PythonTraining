@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64c9ca35-9438-4dea-a7a3-d1d93f522b5b" name="Changes" comment="Added scope.py" />
+    <list default="true" id="64c9ca35-9438-4dea-a7a3-d1d93f522b5b" name="Changes" comment="Changed README file">
+      <change afterPath="$PROJECT_DIR$/args.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +79,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scope.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/args.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -252,7 +255,31 @@
       <option name="project" value="LOCAL" />
       <updated>1719436835819</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Added scope.py">
+      <option name="closed" value="true" />
+      <created>1719436922756</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1719436922756</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Added scope.py">
+      <option name="closed" value="true" />
+      <created>1719436940058</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1719436940058</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Changed README file">
+      <option name="closed" value="true" />
+      <created>1719436977013</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1719436977013</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -308,7 +335,9 @@
     <MESSAGE value="Added returnstatement.py" />
     <MESSAGE value="Added keywordarguments.py" />
     <MESSAGE value="Added nestedfunctionscalls.py" />
+    <MESSAGE value="Changed README" />
     <MESSAGE value="Added scope.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added scope.py" />
+    <MESSAGE value="Changed README file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed README file" />
   </component>
 </project>
