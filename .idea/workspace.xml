@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64c9ca35-9438-4dea-a7a3-d1d93f522b5b" name="Changes" comment="Added kwargs.py">
-      <change afterPath="$PROJECT_DIR$/helpdesk.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonTraining.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonTraining.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="64c9ca35-9438-4dea-a7a3-d1d93f522b5b" name="Changes" comment="Added helpdesk.py" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,29 +43,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.args.executor": "Run",
-    "Python.function.executor": "Run",
-    "Python.helpdesk.executor": "Run",
-    "Python.howisyourday.executor": "Run",
-    "Python.kwargs.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/salty1-1/PycharmProjects/PythonTraining",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.args.executor&quot;: &quot;Run&quot;,
+    &quot;Python.function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.helpdesk.executor&quot;: &quot;Run&quot;,
+    &quot;Python.howisyourday.executor&quot;: &quot;Run&quot;,
+    &quot;Python.kwargs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/salty1-1/PycharmProjects/PythonTraining&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": []
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: []
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.function">
     <configuration name="function" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PythonTraining" />
       <option name="ENV_FILES" value="" />
@@ -308,7 +303,23 @@
       <option name="project" value="LOCAL" />
       <updated>1719439877014</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Added kwargs.py">
+      <option name="closed" value="true" />
+      <created>1719526834774</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1719526834774</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Added helpdesk.py">
+      <option name="closed" value="true" />
+      <created>1719526857784</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1719526857784</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -369,6 +380,7 @@
     <MESSAGE value="Changed README file" />
     <MESSAGE value="Added args.py" />
     <MESSAGE value="Added kwargs.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added kwargs.py" />
+    <MESSAGE value="Added helpdesk.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added helpdesk.py" />
   </component>
 </project>
