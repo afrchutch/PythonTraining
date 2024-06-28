@@ -17,7 +17,8 @@ if top_of_range.isdigit():
         print("Please type a number larger than 0.")
         quit()
 else:
-    print("Please type a number, silly.")
+    print("If you're that dumb then I dont want to play with you...")
+    print("Bye, Felicia!")
     quit()
 
 random_number = random.randint(0, top_of_range)
