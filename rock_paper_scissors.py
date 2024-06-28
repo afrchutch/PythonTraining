@@ -36,7 +36,7 @@ while True:
         continue
 
     if user_input == "scissors" and computer_pick == "scissors":
-        print("Tie !")
+        print("Tie!")
         time.sleep(0.5)
         continue
 
