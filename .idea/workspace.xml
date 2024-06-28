@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64c9ca35-9438-4dea-a7a3-d1d93f522b5b" name="Changes" comment="Added ending output if the player enters anything other than a digit for the top of the range.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="64c9ca35-9438-4dea-a7a3-d1d93f522b5b" name="Changes" comment="Changed naming style for clarity" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +57,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/salty1-1/PycharmProjects/PythonTraining",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": []
@@ -70,7 +68,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.function">
+  <component name="RunManager">
     <configuration name="function" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PythonTraining" />
       <option name="ENV_FILES" value="" />
@@ -364,15 +362,7 @@
       <option name="project" value="LOCAL" />
       <updated>1719559521794</updated>
     </task>
-    <task id="LOCAL-00030" summary="Added ending output if the player enters anything other than a digit for the top of the range.">
-      <option name="closed" value="true" />
-      <created>1719559960262</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1719559960262</updated>
-    </task>
-    <option name="localTasksCounter" value="31" />
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -439,7 +429,6 @@
     <MESSAGE value="Added quiz_game.py" />
     <MESSAGE value="Added number_guess_game.py" />
     <MESSAGE value="Changed naming style for clarity" />
-    <MESSAGE value="Added ending output if the player enters anything other than a digit for the top of the range." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added ending output if the player enters anything other than a digit for the top of the range." />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed naming style for clarity" />
   </component>
 </project>
