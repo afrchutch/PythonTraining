@@ -7,7 +7,6 @@ def write_key():
         key_file.write(key)'''
 
 
-# noinspection PyShadowingNames
 def load_key():
     file = open("key.key", "rb")
     key = file.read()
